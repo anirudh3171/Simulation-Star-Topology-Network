@@ -1,6 +1,8 @@
 # Simulation-Star-Topology-Network
 A simple simulation of star topology using network simulation tool ns2.
 
+The project uses Multicast, Slotted Aloha, Queues, Droplinks, etc.
+
 To install NS2 use command:
 
 ```
