@@ -16,4 +16,4 @@ To deploy the project:
 ns star-topology.tcl
 ```
 
-![Image of Star-Topo](https://github.com/anirudh3171)
+![Image of Star-Topo](https://github.com/anirudh3171/Simulation-Star-Topology-Network/blob/master/Star-topology.png)
